@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Sundarraj G
 
 Pre Final Year Student @ P.S.R Engineering College
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://media.tenor.com/dzock0eDxV0AAAAM/gofiber-really.gif">
 - 🔭 Here's my [portfolio](https://sundarg1502.github.io/sundarraj/)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
