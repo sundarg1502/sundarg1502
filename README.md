@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Sundarraj G
 
 Pre Final Year Student @ P.S.R Engineering College.
-<img align="right" width="370" height="290" src="[https://gifdb.com/images/thumb/data-analysis-metrics-diagram-animation-g57rvdijwrl404kj.gif](https://iconscout.com/lottie-animation/male-web-deveoper-4563722)">
+<img align="right" width="370" height="290" src="https://media.gifdb.com/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 - 🔭 Here's my [portfolio](https://sundarg1502.github.io/sundarraj/)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
