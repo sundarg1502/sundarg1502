@@ -3,7 +3,7 @@
 Pre Final Year Student @ P.S.R Engineering College.
 <img align="right" width="370" height="290" src="https://media.gifdb.com/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 - 🔭 Here's my [portfolio](https://sundarg1502.github.io/sundarraj/)                                                 
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
