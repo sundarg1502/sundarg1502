@@ -21,4 +21,4 @@ Pre Final Year Student @ P.S.R Engineering College.
 
 ### Skillrack Profile
 
-<img src="https://github.com/sundarg1502/sundarraj/blob/main/download/Screenshot%02024-10-05%20223207" />
+<img src="https://github.com/sundarg1502/sundarraj/blob/main/download/Screenshot%02024-10-05%2022327" />
